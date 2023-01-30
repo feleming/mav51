@@ -6,7 +6,6 @@ Heya, I am a Senior Penetration Tester with a passion for identifying and mitiga
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/kHFAIJ5YadCQbIq4h6/giphy.gif" width="100"/>
   </div>
-  
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Cisco-IOS-green">
