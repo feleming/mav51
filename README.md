@@ -1,17 +1,11 @@
 <h1 align="center">
   <b>Alireza Tavakoli</b>
 </h1>  
+
 Heya! I am a Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. As a Red-Teamer, I provide an adversarial perspective by challenging the assumptions made by an organisation and defenders.  Assumptions such as "we're secure because we patch"; "only X number of people can access that system"; and "technology Y would stop that" are dangerous and often don't stand up to scrutiny.  By challenging these assumptions, I can identify areas for improvement in an organizations operational defense.
 
 
-
-
-<br>
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/TAywY9f1YFila/giphy.gif" width="100"/>
-  </div>
   <h2 align="center">
-
  Technologies and Languages 
 </h2>
 <p>
