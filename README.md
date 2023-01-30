@@ -3,15 +3,13 @@
 </h1>  
 Heya, I am a Senior Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. I am also well-versed in various security frameworks such as OWASP and PTES.
 <br>
-
+https://media.giphy.com/media/0Y77io02hFSM3nFEYP/giphy.gif
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Cisco-IOS-green">
   <img src="https://img.shields.io/badge/Ansible-IOS-yellowgreen">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  
+  <img src="https://img.shields.io/badge/Python-IOS-red">
+  <img src="https://img.shields.io/badge/AIX-SUN-brightgreen">
 </div>
 </p>
 
