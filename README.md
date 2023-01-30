@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>M A V E R I C K</b>
+  <b>Alireza Tavakoli</b>
 </h1>  
 Heya! I am a Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. I am also well-versed in various security frameworks such as OWASP and PTES.
 <br>
