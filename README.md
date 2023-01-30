@@ -4,7 +4,7 @@
 Heya, I am a Senior Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. I am also well-versed in various security frameworks such as OWASP and PTES.
 <br>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/kHFAIJ5YadCQbIq4h6/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/TAywY9f1YFila/giphy.gif" width="100"/>
   </div>
 <p>
 <div align="center">
