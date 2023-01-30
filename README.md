@@ -2,7 +2,8 @@
   <b>Alireza Tavakoli</b>
 </h1>  
 
-Heya! I am a Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response.I provide an adversarial perspective by challenging the assumptions made by an organisation and defenders.  Assumptions such as "we're secure because we patch"; "only X number of people can access that system"; and "technology Y would stop that" are dangerous and often don't stand up to scrutiny.  By challenging these assumptions, I can identify areas for improvement in an organizations operational defense.
+Heya! I am a Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response.I provide an adversarial perspective by challenging the assumptions made by an organisation and defenders.  Assumptions such as "we're secure because we patch"; "only X number of people can access that system"; and "technology Y would stop that" are dangerous and often don't stand up to scrutiny. 
+By challenging these assumptions, it's possible toidentify areas for improvement in an organizations operational defense.
 
 
   <h2 align="center">
