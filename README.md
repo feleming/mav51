@@ -10,6 +10,10 @@ Heya! I am a Penetration Tester with a passion for identifying and mitigating vu
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/TAywY9f1YFila/giphy.gif" width="100"/>
   </div>
+  <h2 align="center">
+
+ Technologies and Languages 
+</h2>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Cisco-IOS-green">
