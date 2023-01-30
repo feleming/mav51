@@ -1,7 +1,7 @@
 <h1 align="center">
   <b>M A V E R I C K</b>
 </h1>  
-Heya, I am a Senior Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. I am also well-versed in various security frameworks such as OWASP and PTES.
+Heya! I am a Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. I am also well-versed in various security frameworks such as OWASP and PTES.
 <br>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/TAywY9f1YFila/giphy.gif" width="100"/>
