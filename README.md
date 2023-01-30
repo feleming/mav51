@@ -3,7 +3,10 @@
 </h1>  
 Heya, I am a Senior Penetration Tester with a passion for identifying and mitigating vulnerabilities in networks, systems, and infrastructures. I have extensive experience in Complex Network Penetration Testing and cloud incident response. I am also well-versed in various security frameworks such as OWASP and PTES.
 <br>
-https://media.giphy.com/media/0Y77io02hFSM3nFEYP/giphy.gif
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+  
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Cisco-IOS-green">
