@@ -14,8 +14,8 @@ Heya! I am a Penetration Tester with a passion for identifying and mitigating vu
   <img src="https://img.shields.io/badge/Ansible-IOS-yellowgreen">
   <img src="https://img.shields.io/badge/Python-IOS-red">
   <img src="https://img.shields.io/badge/Raspberry PI-yellow">
-  <img src="https://img.shields.io/badge/C2-cobaltstrike | Covenant -brightgreen">
-  <img src="https://img.shields.io/badge/arduino|teensy-lightgrey">
+  <img src="https://img.shields.io/badge/C2-cobaltstrike | Covenant -red">
+  <img src="https://img.shields.io/badge/arduino|teensy-purple">
   <img src="https://img.shields.io/badge/Azure-GraphQL-lightgrey">
   <img src="https://img.shields.io/badge/Azure-AAD-orange">
   <img src="https://img.shields.io/badge/Splunk-FX-green">
