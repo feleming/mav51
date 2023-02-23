@@ -9,10 +9,10 @@
   
   
 
-- 🔭 I’m currently working on covert beacons to model advance threat actors.  
+- 🔭 Working on covert beacons to model advance threat actors.  
   
 
-- 🌱 I’m currently researching on c2 channels; DNS over HTTPS.  
+- 🌱 Researching on c2 channels; DNS over HTTPS.  
   
 
 - ❓ Ask me about anything related to Infrastructure and cloud pentesting.  
