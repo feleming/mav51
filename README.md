@@ -12,7 +12,7 @@
 - 🔭 Working on covert beacons to model advance threat actors.  
   
 
-- 🌱 Researching on c2 channels; DNS over HTTPS.  
+- 🌱 Researching on c2 channels; API Security; L2,L3 Pivoting.  
   
 
 - ❓ Ask me about anything related to Infrastructure and cloud pentesting.  
